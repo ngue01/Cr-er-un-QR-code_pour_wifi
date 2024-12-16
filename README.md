@@ -56,7 +56,7 @@ print("QR Code Wi-Fi généré avec succès : wifi_qrcode.png")
 
 #### **Exécution :**
 ```bash
-python qr_code_simple.py
+python main.py
 ```
 
 #### **Sortie :**
@@ -114,7 +114,7 @@ print("QR Code Wi-Fi généré avec succès : wifi_qrcode_with_text.png")
 
 #### **Exécution :**
 ```bash
-python qr_code_with_name.py
+python creer_nom_Wifi.py
 ```
 
 #### **Sortie :**
